@@ -1,4 +1,7 @@
 # Image Filter Project - CPU & CUDA
+![Badge em Desenvolvimento](https://img.shields.io/badge/Em_desenvolvimento-Melhorar-blue) ![Badge tec1](https://img.shields.io/badge/C%2B%2B-blue
+) ![Badge tec2](https://img.shields.io/badge/Python-green) ![Badge tec2](https://img.shields.io/badge/CUDA-blue)
+
 
 Projeto desenvolvido para a disciplina de Sistemas Heterogêneos.
 
@@ -65,8 +68,7 @@ NVIDIA Driver + CUDA Toolkit instalado
 ## Observações ( melhorar )
 
 O filtro aplicado será salvo nas imagens output_cpu.jpg e output_gpu.jpg dentro da pasta images/.
-
-O tempo de execução (em milissegundos) é mostrado diretamente na interface.
+Ainda em desenvolvimento
 
 ### Licença
 Este projeto é de uso educacional para a disciplina de Sistemas Heterogêneos - UFAM.
